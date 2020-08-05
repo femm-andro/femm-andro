@@ -6,6 +6,8 @@ Besides this project I'm working on a personal blog where I want to post book re
 
 [Here's where the link to my blog would be if it existed]
 
+**_If you are wondering why my username has femm in it instead of femme it's because I came up with it in the dead of night and didn't realize I had mispelled it._**
+
 <!--
 **femm-andro/femm-andro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
