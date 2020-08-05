@@ -10,6 +10,8 @@ Besides the resource collecting project I'm also working on a personal blog wher
 
 [Here's where the link to my blog would be if it existed]
 
+You can find me on reddit as [u/femm-andro](https://www.reddit.com/user/femm_andro).
+
 **_Here's a fun fact; If you are wondering why my username has femm in it instead of femme it's because I came up with it in the dead of night and didn't realize I had mispelled it._**
 
 <!--
