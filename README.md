@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :) 👋
+
+*Pronouns: she/they*
+
+*I’m currently working on making my blog exist and my resources repository.*
 
 Hello all! My name is Wynona and I'm a trans femme non-binary person who enjoys reading, sleeping and Computer-Science. I'm currenty "employed" as a freelance software dev where I work massive amounts of overtime and barely get paid. As stated in the introduction this was originaly created as a resource for myself and a few friends, but since then I have put a lot of time into making it something that is more generally applicable to the wider trans and non-binary community and something that is far more useful then the original pastebin.
 
