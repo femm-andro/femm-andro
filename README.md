@@ -8,7 +8,7 @@ Hello all! My name is Wynona and I'm a trans femme non-binary person who enjoys 
 
 Besides the resource collecting project I'm also working on a personal blog where I want to post book reviews of Queer Theory as well as other stuff that I find interesting, but that's still a work in progress :)
 
-You can find my blog [here](https://www.adittodevice.com).
+You can find my blog [here](https://adittodevice.com/).
 
 You can find me on reddit as [u/femm-andro](https://www.reddit.com/user/femm_andro).
 
