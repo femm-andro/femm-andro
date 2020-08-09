@@ -1,5 +1,7 @@
 ### Hi, I'm Wynona 👋
 
+![counter](https://enl4ys0ef3toict.m.pipedream.net)
+
 *Pronouns: she/they*
 
 *I’m currently working on making my blog exist and my resources repository.*
