@@ -1,6 +1,4 @@
-### Hi, I'm Wynona 👋
-
-![counter](https://enl4ys0ef3toict.m.pipedream.net)
+### Hi, I'm Wynona 👋 
 
 *Pronouns: she/they*
 
@@ -18,6 +16,8 @@ You can find me on reddit as [u/femm-andro](https://www.reddit.com/user/femm_and
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P220ZWX)
 [![paypal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/34_Grey_PayPal_Pill_Button.png)](https://www.paypal.com/donate/?cmd=_donations&business=EZXKMVF6LSXSQ&currency_code=USD&source=url)
+
+<!--- ![counter](https://enl4ys0ef3toict.m.pipedream.net) --->
 
 <!--
 **femm-andro/femm-andro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
