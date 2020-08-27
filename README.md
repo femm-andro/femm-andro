@@ -12,6 +12,8 @@ You can find my blog [here](https://adittodevice.com/).
 
 You can find me on reddit as [u/femm-andro](https://www.reddit.com/user/femm_andro).
 
+You can view my Github Gists [here](https://gist.github.com/femm-andro).
+
 **_Here's a fun fact; If you are wondering why my username has femm in it instead of femme it's because I came up with it in the dead of night and didn't realize I had mispelled it._**
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P220ZWX)
